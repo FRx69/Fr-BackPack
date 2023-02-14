@@ -1,4 +1,4 @@
-FR-BackPack Simple clothing bag script for QBCore
+FR-BackPack Simple backpack script for QBCore
 
 
 #installation
